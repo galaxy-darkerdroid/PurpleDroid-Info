@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmet!
-- 👀 I’m interested in Android and AOSP
+- 👀 I’m interested in Android and Linux
 - 🌱 I’m currently a student
 - 📫 How to reach me thegangstorm@gmail.com
 - 💻 This is my devices: iPad 5th, Galaxy Note20 Ultra, Galaxy A34 5G, Lenovo Ideacentre AIO 3 and Xbox One 2013
